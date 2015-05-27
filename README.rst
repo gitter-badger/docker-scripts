@@ -1,6 +1,10 @@
 ``docker-scripts``
 ==================
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/goldmann/docker-scripts
+   :target: https://gitter.im/goldmann/docker-scripts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 .. image:: https://circleci.com/gh/goldmann/docker-scripts.svg?style=svg
     :target: https://circleci.com/gh/goldmann/docker-scripts
 
